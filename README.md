@@ -12,21 +12,21 @@ A creative project that uses HTML and CSS to build a colorful cat painting from 
 
 ## 🖥️ Technologies Used
 
--HTML5
+- HTML5
 
--CSS3
+- CSS3
 
 ---
 
 ## ✅ What I Learned
 
- -How to use CSS positioning (absolute, relative) to place elements precisely.
+ - How to use CSS positioning (absolute, relative) to place elements precisely.
 
- -Creating shapes using CSS properties like border-radius and background.
+ - Creating shapes using CSS properties like border-radius and background.
 
- -Layering elements with z-index for visual effects.
+ - Layering elements with z-index for visual effects.
 
- -Applying color palettes to design appealing artwork.
+ - Applying color palettes to design appealing artwork.
 
 ---
 
